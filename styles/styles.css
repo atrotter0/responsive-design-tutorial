@@ -22,10 +22,6 @@
   height: 80px;
 }
 
-.header {
-  background-color: #B2D6FF;
-}
-
 .content {
   background-color: #EAEDF0;
   height: 600px;
@@ -50,6 +46,18 @@
 
 .feature-3 {
   background-color: #C8C6FA;
+}
+
+.header {
+  background-color: #B2D6FF;
+  height: auto;
+  justify-content: inherit;
+  align-items: inherit;
+}
+
+.photo img {
+  width: 100%;
+  display: block;
 }
 
 /* Mobile Styles */
