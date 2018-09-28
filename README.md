@@ -6,6 +6,8 @@
 
 A simple mobile-first responsive design tutorial for Phase2.
 
+Tutorial can be found at: https://internetingishard.com/html-and-css/responsive-design/
+
 ## Technologies Used
 
 * HTML5/CSS3
